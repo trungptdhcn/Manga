@@ -1,0 +1,36 @@
+{
+    "attributes": null,
+    "priceType": null,
+    "priceView": null,
+    "position": "1",
+    "title": "Tori Tank",
+    "fulldesc": "Ribbed scoop neck tank. 100% cotton.Machine wash.",
+    "special_price": null,
+    "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/513/?file=/w/b/wbk003t_5.jpg",
+    "options": null,
+    "tierPrices": null,
+    "fromPrice": 60,
+    "bundleOptions": null,
+    "_id": null,
+    "category": "-1",
+    "stocklevel": 94,
+    "version": 0,
+    "type": "simple",
+    "associatedAttributes": null,
+    "minimalPrice": 60,
+    "groupedItems": null,
+    "special_from_date": null,
+    "special_to_date": null,
+    "associatedProducts": null,
+    "toPrice": 60,
+    "externalid": "513",
+    "gallery": [
+        "http://magento19.jmango360.com/magejam/image/index/store/1/id/513/?file=/w/b/wbk003t_5.jpg"
+    ],
+    "price": 60,
+    "categories": [
+        60,
+        -1
+    ],
+    "description": "A simple ribbed cotton tank. Great for layering."
+}

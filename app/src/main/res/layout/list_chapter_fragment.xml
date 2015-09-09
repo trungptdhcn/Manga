@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="@dimen/spacing_small">
+    <com.pnikosis.materialishprogress.ProgressWheel
+            xmlns:wheel="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/list_chapter_fragment_wheel"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:visibility="gone"
+            wheel:matProg_barColor="@color/red"
+            wheel:matProg_progressIndeterminate="true"
+            />
+    <ListView
+            android:id="@+id/list_chapter_fragment_lvChapter"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:minHeight="@dimen/spacing_huge"
+            android:fastScrollEnabled="true"/>
+</RelativeLayout>

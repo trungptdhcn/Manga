@@ -1,0 +1,75 @@
+{
+    "attributes": null,
+    "priceType": "dynamic",
+    "priceView": "as_low_as",
+    "position": "20007",
+    "title": "A_Visibility",
+    "fulldesc": "Check visibility",
+    "special_price": null,
+    "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/921/?file=/g/i/gi_y_2.jpg",
+    "options": null,
+    "tierPrices": null,
+    "fromPrice": 28,
+    "bundleOptions": [
+        {
+            "inputType": "checkbox",
+            "title": "Accessories",
+            "optionId": 61,
+            "isRequired": false,
+            "position": 1,
+            "selections": [
+                {
+                    "quantity": 68,
+                    "productId": 378,
+                    "defaultQty": "1.0000",
+                    "selectionId": 514,
+                    "instock": true,
+                    "priceType": "fixed",
+                    "position": 0,
+                    "isDefault": false,
+                    "sku": "hdb000",
+                    "price": "28",
+                    "name": "Body Wash with Lemon Flower Extract and Aloe Vera",
+                    "canChangeQty": true
+                },
+                {
+                    "quantity": 0,
+                    "productId": 383,
+                    "defaultQty": "1.0000",
+                    "selectionId": 515,
+                    "instock": false,
+                    "priceType": "fixed",
+                    "position": 0,
+                    "isDefault": false,
+                    "sku": "hdb007",
+                    "price": "275",
+                    "name": "Carnegie Alpaca Throw",
+                    "canChangeQty": true
+                }
+            ]
+        }
+    ],
+    "_id": null,
+    "category": "-1",
+    "stocklevel": -1,
+    "version": 0,
+    "type": "bundle",
+    "associatedAttributes": null,
+    "minimalPrice": 28,
+    "groupedItems": null,
+    "special_from_date": null,
+    "special_to_date": null,
+    "associatedProducts": null,
+    "toPrice": 303,
+    "externalid": "921",
+    "gallery": [
+        "http://magento19.jmango360.com/magejam/image/index/store/1/id/921/?file=/g/i/gi_y_3.jpg",
+        "http://magento19.jmango360.com/magejam/image/index/store/1/id/921/?file=/g/i/gi_y_1.jpg"
+    ],
+    "price": 0,
+    "categories": [
+        56,
+        -1
+    ],
+    "description": "Check visibility, status"
+}

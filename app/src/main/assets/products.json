@@ -1,0 +1,3093 @@
+{
+    "products": [
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Tori Tank",
+            "fulldesc": "Ribbed scoop neck tank. 100% cotton.Machine wash.",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/513/?file=/w/b/wbk003t_5.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 60,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 94,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 60,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 60,
+            "externalid": "513",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/513/?file=/w/b/wbk003t_5.jpg"
+            ],
+            "price": 60,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "A simple ribbed cotton tank. Great for layering."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Elizabeth Knit Top",
+            "fulldesc": "Loose fitting from the shoulders, open weave knit top. Semi sheer.  Slips on. Faux button closure detail on the back. Linen/Cotton. Machine wash.",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/519/?file=/w/b/wbk012t_6.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 210,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 210,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 210,
+            "externalid": "519",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/519/?file=/w/b/wbk012t_6.jpg"
+            ],
+            "price": 210,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "The demure Elizabeth Knit features a semi sheer open weave and a forgiving silhouette. A nude camisole underneath keeps a stylish but conservative look."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Pearl Strand Necklace-24\"",
+            "fulldesc": "AA& quality 6.0-6.5mm pearls. Double knotted on silk thread. 24\" strand. 14K gold hook-and-eye clasp. Made in Indonesia.",
+            "special_price": "200",
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/548/?file=/a/c/acj001_1_4.jpg",
+            "options": null,
+            "tierPrices": [
+                {
+                    "price": 150,
+                    "qty": 3,
+                    "customerGroupId": "32000"
+                },
+                {
+                    "price": 100,
+                    "qty": 4,
+                    "customerGroupId": "32000"
+                }
+            ],
+            "fromPrice": 200,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 100,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 200,
+            "externalid": "548",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/548/?file=/a/c/acj001_1_4.jpg"
+            ],
+            "price": 250,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "For a discreet display of pure elegance. Layer multi strands or compliment with pearl or diamond studs. 18\" or 24\""
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Oatmeal Henley Tee",
+            "fulldesc": "Ultrasoft, lightweight V-neck tee. Available in Oatmeal and Grey. 100% cotton. Machine wash.",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/641/?file=/p/m/pmtk004t_1.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 125,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 29,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 125,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 125,
+            "externalid": "641",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/641/?file=/p/m/pmtk004a_1.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/641/?file=/p/m/pmtk004b_1.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/641/?file=/p/m/pmtk004t_1.jpg"
+            ],
+            "price": 125,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Minimalist style and maximum comfort in a lightweight cotton henley."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Merino V-neck Pullover Sweater",
+            "fulldesc": "Long sleeve, pull over style. V-neck. Relaxed fit through the chest. Ribbed neckline, cuff and hem. Available in Grey and Charcoal. 100% Merino wool. Dry clean.",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/650/?file=/p/m/pmtk006t_1.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 210,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 11,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 210,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 210,
+            "externalid": "650",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/650/?file=/p/m/pmtk006a_1.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/650/?file=/p/m/pmtk006t_1.jpg"
+            ],
+            "price": 210,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "A classy V-neck sweater crafted from smooth refined Merino wool. Essential for layering when changing climates."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Merino V-neck Pullover Sweater",
+            "fulldesc": "Long sleeve, pull over style. V-neck. Relaxed fit through the chest. Ribbed neckline, cuff and hem. Available in Grey and Charcoal. 100% Merino wool. Dry clean.",
+            "special_price": "100.0000",
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/651/?file=/p/m/pmtk006t_1.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 210,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 210,
+            "groupedItems": null,
+            "special_from_date": "2014-11-03 00:00:00",
+            "special_to_date": "2014-11-30 00:00:00",
+            "associatedProducts": null,
+            "toPrice": 210,
+            "externalid": "651",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/651/?file=/p/m/pmtk006a_1.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/651/?file=/p/m/pmtk006t_1.jpg"
+            ],
+            "price": 210,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "A classy V-neck sweater crafted from smooth refined Merino wool. Essential for layering when changing climates."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "TriBeCa Skinny Jean",
+            "fulldesc": "Ultra slim-fit, stretch denim. Mid rise. 5 pockets, tonal stitching. Cotton. Machine wash.",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/657/?file=/p/w/pwb000t_1.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 185,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 185,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 185,
+            "externalid": "657",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/657/?file=/p/w/pwb000a_1.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/657/?file=/p/w/pwb000b_1.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/657/?file=/p/w/pwb000t_1.jpg"
+            ],
+            "price": 185,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "The perfect jean for travel. Extra strech for a comfortable and flattering fit. Pair with a loose fit top and nude pumps for a modern silhouette."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "TriBeCa Skinny Jean",
+            "fulldesc": "Ultra slim-fit, stretch denim. Mid rise. 5 pockets, tonal stitching. Cotton. Machine wash.",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/658/?file=/p/w/pwb000t_1.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 185,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 185,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 185,
+            "externalid": "658",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/658/?file=/p/w/pwb000a_1.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/658/?file=/p/w/pwb000b_1.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/658/?file=/p/w/pwb000t_1.jpg"
+            ],
+            "price": 185,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "The perfect jean for travel. Extra strech for a comfortable and flattering fit. Pair with a loose fit top and nude pumps for a modern silhouette."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Villa Bermuda Shorts 1",
+            "fulldesc": "Bermuda shorts with side slit pockets and back pockets. Unlined. Available in Charcoal. Cotton/Polyester. Hand Wash, Dry Clean for best results.",
+            "special_price": "100.0000",
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/663/?file=/p/w/pwb001t_2.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 150,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 89,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 150,
+            "groupedItems": null,
+            "special_from_date": "2014-11-07 00:00:00",
+            "special_to_date": "2015-01-31 00:00:00",
+            "associatedProducts": null,
+            "toPrice": 150,
+            "externalid": "663",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/663/?file=/p/w/pwb001a_2.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/663/?file=/p/w/pwb001b_2.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/663/?file=/p/w/pwb001t_2.jpg"
+            ],
+            "price": 150,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Complete ease of movement for anything from beachcombing to city touring."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Villa Bermuda Shorts",
+            "fulldesc": "Bermuda shorts with side slit pockets and back pockets. Unlined. Available in Charcoal. Cotton/Polyester. Hand Wash, Dry Clean for best results.",
+            "special_price": "0",
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/664/?file=/p/w/pwb001t_3.jpg",
+            "options": null,
+            "tierPrices": [
+                {
+                    "price": 50,
+                    "qty": 2,
+                    "customerGroupId": "32000"
+                },
+                {
+                    "price": 40,
+                    "qty": 3,
+                    "customerGroupId": "32000"
+                },
+                {
+                    "price": 20,
+                    "qty": 4,
+                    "customerGroupId": "32000"
+                }
+            ],
+            "fromPrice": 0,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 17,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 0,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 0,
+            "externalid": "664",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/664/?file=/p/w/pwb001b_3.jpg"
+            ],
+            "price": 150,
+            "categories": [
+                60,
+                67,
+                -1
+            ],
+            "description": "Complete ease of movement for anything from beachcombing to city touring."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Villa Bermuda Shorts",
+            "fulldesc": "Bermuda shorts with side slit pockets and back pockets. Unlined. Available in Charcoal. Cotton/Polyester. Hand Wash, Dry Clean for best results.",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/665/?file=/p/w/pwb001t_3.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 150,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 150,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 150,
+            "externalid": "665",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/665/?file=/p/w/pwb001a_3.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/665/?file=/p/w/pwb001b_3.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/665/?file=/p/w/pwb001t_3.jpg"
+            ],
+            "price": 150,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Complete ease of movement for anything from beachcombing to city touring."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Cornelia Skirt",
+            "fulldesc": "Cotton canvas a-line skirt with front button detail. 20\" length. Available in Grey. Imported. Cotton. Machine Wash, Dry clean for best results.",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/672/?file=/p/w/pwb003t_1.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 225,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 2,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 225,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 225,
+            "externalid": "672",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/672/?file=/p/w/pwb003a_1.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/672/?file=/p/w/pwb003b_1.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/672/?file=/p/w/pwb003t_1.jpg"
+            ],
+            "price": 225,
+            "categories": [
+                2,
+                60,
+                -1
+            ],
+            "description": "Durable yet stylish for around the world adventures."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Grand Slim Straight Jean",
+            "fulldesc": "Slim straight denim. Mid rise. 5 pockets, contrast stitching. Available in Indigo. Cotton. Machine wash.",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/679/?file=/p/w/pwb005t_7.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 225,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 21,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 225,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 225,
+            "externalid": "679",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/679/?file=/p/w/pwb005t_7.jpg"
+            ],
+            "price": 225,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "A classic in denim, our over-dyed straight-cut jean easily dresses up or down."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Hester Ankle Pant",
+            "fulldesc": "Crepe flat front straight leg trouser. Cropped ankle length. Side slit pockets and single rear welt pocket. Available in Ivory. Acetate/viscose. Dry clean.",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/686/?file=/p/w/pwb006t_1.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 260,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 14,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 260,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 260,
+            "externalid": "686",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/686/?file=/p/w/pwb006a_1.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/686/?file=/p/w/pwb006b_1.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/686/?file=/p/w/pwb006t_1.jpg"
+            ],
+            "price": 260,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Hester Pants are a sophisticated way to work the ankle length trend this season."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Jane Dress",
+            "fulldesc": "Leather sheath dress with jersey panels. Sleeveless. Lined. Available in Black. Cotton/Leather. Dry clean.",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/700/?file=/p/w/pwd001a_3.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 510,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 14,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 510,
+            "groupedItems": null,
+            "special_from_date": "2014-11-04 00:00:00",
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 510,
+            "externalid": "700",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/700/?file=/p/w/pwd001a_3.jpg"
+            ],
+            "price": 510,
+            "categories": [
+                60,
+                67,
+                -1
+            ],
+            "description": "Leather panels add a tuff touch to a classic LBD."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Jacqueline Medallion Dress",
+            "fulldesc": "Sheath dress with gold medallion detail and slightly flaired skirt. Knee length. Fully lined. Available in Ivory. Polyester. Dry clean.",
+            "special_price": "300.0000",
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/707/?file=/p/w/pwd002t_1.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 425,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 24,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 425,
+            "groupedItems": null,
+            "special_from_date": "2014-10-02 00:00:00",
+            "special_to_date": "2014-10-31 00:00:00",
+            "associatedProducts": null,
+            "toPrice": 425,
+            "externalid": "707",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/707/?file=/p/w/pwd002a_1.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/707/?file=/p/w/pwd002b_1.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/707/?file=/p/w/pwd002t_1.jpg"
+            ],
+            "price": 425,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "A demure selection for any occasion."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Sheri Collar Shirt",
+            "fulldesc": "Ultralightweight cotton collar shirt. Fitted through the waist. Front button closure. Ribbed side panels. Available in Grey and Charcoal. 100% cotton. Machine wash.",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/721/?file=/p/w/pwt002t_1.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 140,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 24,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 140,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 140,
+            "externalid": "721",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/721/?file=/p/w/pwt002a_1.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/721/?file=/p/w/pwt002b_1.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/721/?file=/p/w/pwt002t_1.jpg"
+            ],
+            "price": 140,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "A relaxed and wrinkle resistant travel shirt."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Charcoal Sheri Collar Shirt XL",
+            "fulldesc": "Ultralightweight cotton collar shirt. Fitted through the waist. Front button closure. Ribbed side panels. Available in Grey and Charcoal. 100% cotton. Machine wash.",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/727/?file=/p/w/pwt003t_1.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 140,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 140,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 140,
+            "externalid": "727",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/727/?file=/p/w/pwt003a_1.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/727/?file=/p/w/pwt003t_1.jpg"
+            ],
+            "price": 140,
+            "categories": [
+                26,
+                60,
+                -1
+            ],
+            "description": "A relaxed and wrinkle resistant travel shirt."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Broadway Pump",
+            "fulldesc": "Dyed mohair upper. 3.5\" heel. Leather insole and lining. Imported.",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/800/?file=/s/h/shw004a_4.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 410,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 410,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 410,
+            "externalid": "800",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/800/?file=/s/h/shw004a_4.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/800/?file=/s/h/shw004b_4.jpg"
+            ],
+            "price": 410,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Be after-dark chic with our contemporary mohair creation. The attention grabbing pair fits well with the season's trend of neutral hues."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Broadway Pump_Simple",
+            "fulldesc": "Dyed mohair upper. 3.5\" heel. Leather insole and lining. Imported.",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/802/?file=/s/h/shw004a_4.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 400,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 76,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 400,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 400,
+            "externalid": "802",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/802/?file=/s/h/shw004a_4.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/802/?file=/s/h/shw004b_4.jpg"
+            ],
+            "price": 400,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Be after-dark chic with our contemporary mohair creation. The attention grabbing pair fits well with the season's trend of neutral hues."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Ellis Flat 21",
+            "fulldesc": "Suede upper. Rubber 0.5\" heel. Domestic.",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/807/?file=/s/h/shw005a_4.jpg",
+            "options": [
+                {
+                    "inputType": "checkbox",
+                    "title": "Checkbox",
+                    "optionId": "241",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 44,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "250",
+                            "name": "checkbox",
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                },
+                {
+                    "inputType": "date",
+                    "title": "Date",
+                    "optionId": "239",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 12,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": null,
+                            "name": null,
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                },
+                {
+                    "inputType": "date_time",
+                    "title": "Date and time",
+                    "optionId": "238",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 77,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": null,
+                            "name": null,
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                },
+                {
+                    "inputType": "drop_down",
+                    "title": "Dropdown",
+                    "optionId": "243",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 23,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "253",
+                            "name": "Drop down",
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                },
+                {
+                    "inputType": "multiple",
+                    "title": "Multi Select",
+                    "optionId": "240",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 34,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "248",
+                            "name": "Multi 1",
+                            "maxCharacters": 0
+                        },
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 44,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "249",
+                            "name": "Multi2",
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                },
+                {
+                    "inputType": "radio",
+                    "title": "Radio button",
+                    "optionId": "242",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 23,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "251",
+                            "name": "Radio button 1",
+                            "maxCharacters": 0
+                        },
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 77,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "252",
+                            "name": "radio 2",
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                },
+                {
+                    "inputType": "field",
+                    "title": "Text are",
+                    "optionId": "245",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": "345",
+                            "price": 34,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": null,
+                            "name": null,
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                },
+                {
+                    "inputType": "field",
+                    "title": "Text File",
+                    "optionId": "246",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 12,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": null,
+                            "name": null,
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                },
+                {
+                    "inputType": "time",
+                    "title": "Time",
+                    "optionId": "237",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 34,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": null,
+                            "name": null,
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                }
+            ],
+            "tierPrices": null,
+            "fromPrice": 374,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 374,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 652,
+            "externalid": "807",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/807/?file=/s/h/shw005a_4.jpg"
+            ],
+            "price": 250,
+            "categories": [
+                10,
+                60,
+                -1
+            ],
+            "description": "A pop of green is a fantastic to lift your favorite outfit. Wear with everything from skinny jeans to day dresses."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Angela Wrap Dress",
+            "fulldesc": "Wrap dress with deep Vee. Knee length. Available in Blue. Cotton/Cashmere. Hand wash, dry clean for best results.",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/828/?file=/p/w/pwd000t_4.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 395,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": -1,
+            "version": 0,
+            "type": "configurable",
+            "associatedAttributes": [
+                {
+                    "id": 180,
+                    "name": "Size",
+                    "valueList": [
+                        {
+                            "id": 76,
+                            "name": "2",
+                            "price": 10
+                        }
+                    ],
+                    "values": [
+                        "2"
+                    ]
+                }
+            ],
+            "minimalPrice": 395,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": [
+                {
+                    "quantity": 20,
+                    "id": 688,
+                    "map": {
+                        "Size": "2"
+                    },
+                    "saleable": true,
+                    "instock": true
+                }
+            ],
+            "toPrice": 415,
+            "externalid": "828",
+            "gallery": null,
+            "price": 395,
+            "categories": [
+                60,
+                62,
+                -1
+            ],
+            "description": "Cashmere and cotton marry in our figure forgiving day dress."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Milli Cardigan",
+            "fulldesc": "Crew cardigan. Mother of pearl front button closure. Ribbed cuff and hem. 100% cotton. Hand wash.",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/835/?file=/2/4/247659_531099996906340_1536776188_n.jpg",
+            "options": null,
+            "tierPrices": [
+                {
+                    "price": 200,
+                    "qty": 3,
+                    "customerGroupId": "32000"
+                }
+            ],
+            "fromPrice": 240,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": -1,
+            "version": 0,
+            "type": "configurable",
+            "associatedAttributes": [
+                {
+                    "id": 180,
+                    "name": "Size",
+                    "valueList": [
+                        {
+                            "id": 81,
+                            "name": "XS",
+                            "price": 0
+                        },
+                        {
+                            "id": 79,
+                            "name": "M",
+                            "price": 60
+                        },
+                        {
+                            "id": 78,
+                            "name": "L",
+                            "price": 70
+                        }
+                    ],
+                    "values": [
+                        "XS",
+                        "M",
+                        "L"
+                    ]
+                }
+            ],
+            "minimalPrice": 200,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": [
+                {
+                    "quantity": 33,
+                    "id": 731,
+                    "map": {
+                        "Size": "L"
+                    },
+                    "saleable": true,
+                    "instock": true
+                },
+                {
+                    "quantity": 30,
+                    "id": 730,
+                    "map": {
+                        "Size": "M"
+                    },
+                    "saleable": true,
+                    "instock": true
+                },
+                {
+                    "quantity": 12,
+                    "id": 1346,
+                    "map": {
+                        "Size": "XS"
+                    },
+                    "saleable": true,
+                    "instock": true
+                }
+            ],
+            "toPrice": 310,
+            "externalid": "835",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/835/?file=/p/w/pwt004a_4.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/835/?file=/p/w/pwt004b_4.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/835/?file=/p/w/pwt004t_6.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/835/?file=/2/4/247659_531099996906340_1536776188_n.jpg"
+            ],
+            "price": 240,
+            "categories": [
+                60,
+                67,
+                -1
+            ],
+            "description": "Polished femininity in this cover-up of choice."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Studio Dress Shoe",
+            "fulldesc": "Color wash leather upper. Oxford lace up front. Contemporary square toe. Contrast laces. 1\" heel. Imported.",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/863/?file=/s/h/shm004a_4.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 410,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 410,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 410,
+            "externalid": "863",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/863/?file=/s/h/shm004a_4.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/863/?file=/s/h/shm004b_-_4.jpg"
+            ],
+            "price": 410,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "A contemporary lace up with intentional color wash effect."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Broadway Pump",
+            "fulldesc": "Dyed mohair upper. 3.5\" heel. Leather insole and lining. Imported.",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/874/?file=/s/h/shw004a_5.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 410,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": -1,
+            "version": 0,
+            "type": "configurable",
+            "associatedAttributes": [
+                {
+                    "id": 186,
+                    "name": "Shoe size",
+                    "valueList": [
+                        {
+                            "id": 101,
+                            "name": "7",
+                            "price": 0
+                        },
+                        {
+                            "id": 99,
+                            "name": "9",
+                            "price": 0
+                        },
+                        {
+                            "id": 98,
+                            "name": "10",
+                            "price": 0
+                        }
+                    ],
+                    "values": [
+                        "7",
+                        "9",
+                        "10"
+                    ]
+                }
+            ],
+            "minimalPrice": 410,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": [
+                {
+                    "quantity": 76,
+                    "id": 802,
+                    "map": {
+                        "Shoe size": "10"
+                    },
+                    "saleable": true,
+                    "instock": true
+                },
+                {
+                    "quantity": 188,
+                    "id": 801,
+                    "map": {
+                        "Shoe size": "9"
+                    },
+                    "saleable": true,
+                    "instock": true
+                },
+                {
+                    "quantity": 1794,
+                    "id": 799,
+                    "map": {
+                        "Shoe size": "7"
+                    },
+                    "saleable": true,
+                    "instock": true
+                }
+            ],
+            "toPrice": 410,
+            "externalid": "874",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/874/?file=/s/h/shw004a_5.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/874/?file=/s/h/shw004b_5.jpg"
+            ],
+            "price": 410,
+            "categories": [
+                20,
+                26,
+                60,
+                -1
+            ],
+            "description": "Be after-dark chic with our contemporary mohair creation. The attention grabbing pair fits well with the season's trend of neutral hues."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Black Nolita Cami",
+            "fulldesc": "Silk cami. Tie front detail, with hook and eye. Ruched neckline. Loose through the chest and bodice. 100% Silk. Dry clean.",
+            "special_price": "50.0000",
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/878/?file=/w/b/wbk002t_3.jpg",
+            "options": [
+                {
+                    "inputType": "field",
+                    "title": "Field",
+                    "optionId": "126",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 6,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "percent",
+                            "valueId": null,
+                            "name": null,
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": false
+                },
+                {
+                    "inputType": "drop_down",
+                    "title": "Size ",
+                    "optionId": "49",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 10,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "50",
+                            "name": "Size M",
+                            "maxCharacters": 0
+                        },
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 20,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "51",
+                            "name": "Size L",
+                            "maxCharacters": 0
+                        },
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 50,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "52",
+                            "name": "Size XXL",
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                }
+            ],
+            "tierPrices": null,
+            "fromPrice": 130,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 130,
+            "groupedItems": null,
+            "special_from_date": "2013-05-01 00:00:00",
+            "special_to_date": "2014-12-31 00:00:00",
+            "associatedProducts": null,
+            "toPrice": 176,
+            "externalid": "878",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/878/?file=/w/b/wbk002t_3.jpg"
+            ],
+            "price": 120,
+            "categories": [
+                60,
+                66,
+                -1
+            ],
+            "description": "Cut from tissue-weight silk crepe de chine, this airy style features a ruched neckline with tie and an unfinished hem for a contrastinly rugged feel. Compliment yours with skinny jeans."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "NoLIta Cami-Pink-L",
+            "fulldesc": "Silk cami. Tie front detail, with hook and eye. Ruched neckline. Loose through the chest and bodice. 100% Silk. Dry clean.",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/879/?file=/w/b/wbk000t_6.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 150,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 96,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 150,
+            "groupedItems": null,
+            "special_from_date": "2013-03-20 00:00:00",
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 150,
+            "externalid": "879",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/879/?file=/w/b/wbk000t_6.jpg"
+            ],
+            "price": 150,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Cut from tissue-weight silk crepe de chine, this airy style features a ruched neckline with tie and an unfinished hem for a contrastinly rugged feel. Compliment yours with skinny jeans."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Black Nolita Cami-Black-S",
+            "fulldesc": "Silk cami. Tie front detail, with hook and eye. Ruched neckline. Loose through the chest and bodice. 100% Silk. Dry clean.",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/881/?file=/w/b/wbk002t_5.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 150,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 150,
+            "groupedItems": null,
+            "special_from_date": "2013-05-08 00:00:00",
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 150,
+            "externalid": "881",
+            "gallery": null,
+            "price": 150,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Cut from tissue-weight silk crepe de chine, this airy style features a ruched neckline with tie and an unfinished hem for a contrastinly rugged feel. Compliment yours with skinny jeans."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "My Configurable Product-Black-10",
+            "fulldesc": "Description",
+            "special_price": null,
+            "image": null,
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 50,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 995,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 50,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 50,
+            "externalid": "886",
+            "gallery": null,
+            "price": 50,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Short Description"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Cupi Intel 2.2GHz",
+            "fulldesc": "Cupi Intel 2.2GHz",
+            "special_price": "3000.0000",
+            "image": null,
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 3000,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 2995,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 3000,
+            "groupedItems": null,
+            "special_from_date": "2014-10-20 00:00:00",
+            "special_to_date": "2014-10-21 00:00:00",
+            "associatedProducts": null,
+            "toPrice": 3000,
+            "externalid": "890",
+            "gallery": null,
+            "price": 3000,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Cupi Intel 2.2GHz"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Cupi ADM 1.2GHz",
+            "fulldesc": "Cupi ADM 1.2GHz",
+            "special_price": "800.0000",
+            "image": null,
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 900,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 900,
+            "groupedItems": null,
+            "special_from_date": "2014-10-31 00:00:00",
+            "special_to_date": "2014-11-30 00:00:00",
+            "associatedProducts": null,
+            "toPrice": 900,
+            "externalid": "891",
+            "gallery": null,
+            "price": 900,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Cupi ADM 1.2GHz"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Cupi ADM 2.2GHz",
+            "fulldesc": "Cupi ADM 2.2GHz description",
+            "special_price": "450.0000",
+            "image": null,
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 450,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 450,
+            "groupedItems": null,
+            "special_from_date": "2014-10-21 00:00:00",
+            "special_to_date": "2015-10-22 00:00:00",
+            "associatedProducts": null,
+            "toPrice": 450,
+            "externalid": "892",
+            "gallery": null,
+            "price": 450,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Cupi ADM 2.2GHz short description"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Cupi SAMSUNG 1GB RAM",
+            "fulldesc": "Cupi SAMSUNG 1GB RAM",
+            "special_price": null,
+            "image": null,
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 500,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 126,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 500,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 500,
+            "externalid": "893",
+            "gallery": null,
+            "price": 500,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Cupi SAMSUNG 1GB RAM"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Cupi SAMSUNG 2GB RAM",
+            "fulldesc": "Cupi SAMSUNG 2GB RAM",
+            "special_price": null,
+            "image": null,
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 5000,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 9,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 5000,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 5000,
+            "externalid": "894",
+            "gallery": null,
+            "price": 5000,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Cupi SAMSUNG 2GB RAM"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Cupi SAMSUNG 3GB RAM 1",
+            "fulldesc": "Cupi SAMSUNG 3GB RAM",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/895/?file=/s/a/samsung-3gb-ddr3-mobile-ram.jpg",
+            "options": [
+                {
+                    "inputType": "area",
+                    "title": "Samsung 2GB",
+                    "optionId": "47",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 0,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": null,
+                            "name": null,
+                            "maxCharacters": 1000
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                }
+            ],
+            "tierPrices": null,
+            "fromPrice": 5000,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 988,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 5000,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 5000,
+            "externalid": "895",
+            "gallery": null,
+            "price": 5000,
+            "categories": [
+                60,
+                66,
+                -1
+            ],
+            "description": "Cupi SAMSUNG 3GB RAM"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "BV Intel CPU",
+            "fulldesc": "BV Intel CPU",
+            "special_price": "1000",
+            "image": null,
+            "options": [
+                {
+                    "inputType": "checkbox",
+                    "title": "Checkbox",
+                    "optionId": "230",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 33,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "241",
+                            "name": "Checkbox1",
+                            "maxCharacters": 0
+                        },
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 11,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "242",
+                            "name": "Checkbox2",
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                },
+                {
+                    "inputType": "date_time",
+                    "title": "Date and Time",
+                    "optionId": "231",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": "09",
+                            "price": 33,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": null,
+                            "name": null,
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                },
+                {
+                    "inputType": "drop_down",
+                    "title": "Drop Down 1",
+                    "optionId": "224",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 0,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "234",
+                            "name": "11",
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                },
+                {
+                    "inputType": "multiple",
+                    "title": "Multi Select",
+                    "optionId": "229",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 0,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "238",
+                            "name": "Select 1 ",
+                            "maxCharacters": 0
+                        },
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 44,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "239",
+                            "name": "Select 2",
+                            "maxCharacters": 0
+                        },
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 9,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "240",
+                            "name": "Select 3",
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                },
+                {
+                    "inputType": "radio",
+                    "title": "Radio button",
+                    "optionId": "228",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 11,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "235",
+                            "name": "Button 1",
+                            "maxCharacters": 0
+                        },
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": -2,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "236",
+                            "name": "Button 2",
+                            "maxCharacters": 0
+                        },
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 0,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "237",
+                            "name": "Button 3",
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                },
+                {
+                    "inputType": "field",
+                    "title": "Text",
+                    "optionId": "227",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 12,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": null,
+                            "name": null,
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                },
+                {
+                    "inputType": "area",
+                    "title": "Text Area",
+                    "optionId": "226",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 23,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": null,
+                            "name": null,
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                }
+            ],
+            "tierPrices": null,
+            "fromPrice": 1009,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 971,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 1009,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 1220,
+            "externalid": "897",
+            "gallery": null,
+            "price": 4000,
+            "categories": [
+                56,
+                57,
+                58,
+                59,
+                60,
+                -1
+            ],
+            "description": "BV Intel CPU"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "BV AMD Ram",
+            "fulldesc": "BV AMD Ram",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/900/?file=/r/a/ram.jpg",
+            "options": [
+                {
+                    "inputType": "field",
+                    "title": "Field",
+                    "optionId": "45",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 100,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": null,
+                            "name": null,
+                            "maxCharacters": 500
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                }
+            ],
+            "tierPrices": null,
+            "fromPrice": 5000,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 5000,
+            "groupedItems": null,
+            "special_from_date": "2014-10-21 00:00:00",
+            "special_to_date": "2015-10-22 00:00:00",
+            "associatedProducts": null,
+            "toPrice": 5100,
+            "externalid": "900",
+            "gallery": null,
+            "price": 5000,
+            "categories": [
+                60,
+                66,
+                -1
+            ],
+            "description": "BV AMD Ram"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Mũ 1",
+            "fulldesc": "Mũ cho bé gái",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/968/?file=/i/m/images_1.jpeg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 10,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 10,
+            "groupedItems": null,
+            "special_from_date": "2014-10-09 00:00:00",
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 10,
+            "externalid": "968",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/968/?file=/i/m/images_1.jpeg"
+            ],
+            "price": 10,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Mũ cho bé gái"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Mũ 2",
+            "fulldesc": "Mũ cho bé gái",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/969/?file=/i/m/images_1__1.jpeg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 20,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 20,
+            "groupedItems": null,
+            "special_from_date": "2014-10-09 00:00:00",
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 20,
+            "externalid": "969",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/969/?file=/i/m/images_1__1.jpeg"
+            ],
+            "price": 20,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Mũ cho bé gái"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Mũ 3",
+            "fulldesc": "Mũ cho bé gái",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/970/?file=/5/9/598985c643028ff20c3e6b760f9840655.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 30,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 30,
+            "groupedItems": null,
+            "special_from_date": "2014-10-09 00:00:00",
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 30,
+            "externalid": "970",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/970/?file=/5/9/598985c643028ff20c3e6b760f9840655.jpg"
+            ],
+            "price": 30,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Mũ cho bé gái"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Mũ 4",
+            "fulldesc": "Mũ cho bé gái",
+            "special_price": null,
+            "image": null,
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 50,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 50,
+            "groupedItems": null,
+            "special_from_date": "2014-10-09 00:00:00",
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 50,
+            "externalid": "975",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/975/?file=/5/9/598985c643028ff20c3e6b760f9840655_1.jpg"
+            ],
+            "price": 50,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Mũ cho bé gái"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Mũ 6 ",
+            "fulldesc": "Mũ cho bé gái ",
+            "special_price": "5.0000",
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/981/?file=/1/3/1340259451404675362aef61a36df3271398e6ff1e414_xl_2.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 20,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 49,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 20,
+            "groupedItems": null,
+            "special_from_date": "2014-11-01 00:00:00",
+            "special_to_date": "2014-11-30 00:00:00",
+            "associatedProducts": null,
+            "toPrice": 20,
+            "externalid": "981",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/981/?file=/1/3/1340259451404675362aef61a36df3271398e6ff1e414_xl_2.jpg"
+            ],
+            "price": 20,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Mũ cho bé gái"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Mũ 7 - valid special price",
+            "fulldesc": "current date = [FromDate; ToDate]; current date =4/11/14",
+            "special_price": "12.0000",
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/984/?file=/1/3/1340259451404675362aef61a36df3271398e6ff1e414_xl_2_1.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 150000,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 6,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 150000,
+            "groupedItems": null,
+            "special_from_date": "2014-11-01 00:00:00",
+            "special_to_date": "2014-11-30 00:00:00",
+            "associatedProducts": null,
+            "toPrice": 150000,
+            "externalid": "984",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/984/?file=/1/3/1340259451404675362aef61a36df3271398e6ff1e414_xl_2_1.jpg"
+            ],
+            "price": 150000,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "current date = [FromDate; ToDate]"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Mũ 8 - valid special price",
+            "fulldesc": "current date = [FromDate; ToDate]; current date = From date = 4/11/14",
+            "special_price": "12.0000",
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/995/?file=/1/3/1340259451404675362aef61a36df3271398e6ff1e414_xl_2_1_1.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 150000,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 150000,
+            "groupedItems": null,
+            "special_from_date": "2014-11-04 00:00:00",
+            "special_to_date": "2014-11-30 00:00:00",
+            "associatedProducts": null,
+            "toPrice": 150000,
+            "externalid": "995",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/995/?file=/1/3/1340259451404675362aef61a36df3271398e6ff1e414_xl_2_1_1.jpg"
+            ],
+            "price": 150000,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "current date = [FromDate; ToDate]"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Mũ 9 - valid special price",
+            "fulldesc": "current date = [FromDate; ToDate]; current date = To Date",
+            "special_price": "12.0000",
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/997/?file=/1/3/1340259451404675362aef61a36df3271398e6ff1e414_xl_2_1_1_1.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 150000,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 150000,
+            "groupedItems": null,
+            "special_from_date": "2014-11-01 00:00:00",
+            "special_to_date": "2014-11-04 00:00:00",
+            "associatedProducts": null,
+            "toPrice": 150000,
+            "externalid": "997",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/997/?file=/1/3/1340259451404675362aef61a36df3271398e6ff1e414_xl_2_1_1_1.jpg"
+            ],
+            "price": 150000,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "current date = [FromDate; ToDate]; current date = To Date"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Mũ 10 - invalid special price",
+            "fulldesc": "current date != [FromDate; ToDate]",
+            "special_price": "2.0000",
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/1000/?file=/1/3/1340259451404675362aef61a36df3271398e6ff1e414_xl_2_1_1_1_1.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 8,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 11,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 8,
+            "groupedItems": null,
+            "special_from_date": "2014-10-01 00:00:00",
+            "special_to_date": "2014-10-31 00:00:00",
+            "associatedProducts": null,
+            "toPrice": 8,
+            "externalid": "1000",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/1000/?file=/1/3/1340259451404675362aef61a36df3271398e6ff1e414_xl_2_1_1_1_1.jpg"
+            ],
+            "price": 8,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "current date != [FromDate; ToDate]"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Mũ 11 - invalid special price 1",
+            "fulldesc": "special price >= regular price",
+            "special_price": "19.0000",
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/1002/?file=/1/3/1340259451404675362aef61a36df3271398e6ff1e414_xl_2_1_1_1_1_1.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 9,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 9,
+            "groupedItems": null,
+            "special_from_date": "2014-10-01 00:00:00",
+            "special_to_date": "2014-12-31 00:00:00",
+            "associatedProducts": null,
+            "toPrice": 9,
+            "externalid": "1002",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/1002/?file=/1/3/1340259451404675362aef61a36df3271398e6ff1e414_xl_2_1_1_1_1_1.jpg"
+            ],
+            "price": 9,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "special price >= regular price"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Mũ 1 Copy",
+            "fulldesc": "Mũ cho bé gái",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/1031/?file=/i/m/images_1_3.jpeg",
+            "options": [
+                {
+                    "inputType": "area",
+                    "title": "Area",
+                    "optionId": "254",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 12,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": null,
+                            "name": null,
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                }
+            ],
+            "tierPrices": null,
+            "fromPrice": 100,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 100,
+            "groupedItems": null,
+            "special_from_date": "2014-10-09 00:00:00",
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 112,
+            "externalid": "1031",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/1031/?file=/i/m/images_1_3.jpeg"
+            ],
+            "price": 100,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Mũ cho bé gái"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Mũ 2 copy",
+            "fulldesc": "Mũ cho bé gái",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/1032/?file=/i/m/images_1__1_2.jpeg",
+            "options": [
+                {
+                    "inputType": "drop_down",
+                    "title": "têst",
+                    "optionId": "205",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 0,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "203",
+                            "name": "test",
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                }
+            ],
+            "tierPrices": null,
+            "fromPrice": 200,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 9896,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 200,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 200,
+            "externalid": "1032",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/1032/?file=/i/m/images_1__1_2.jpeg"
+            ],
+            "price": 200,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Mũ cho bé gái"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Fridge",
+            "fulldesc": "Fridge",
+            "special_price": "500.0000",
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/1035/?file=/d/o/do-019.png",
+            "options": [
+                {
+                    "inputType": "time",
+                    "title": "Date_time",
+                    "optionId": "135",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 0,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": null,
+                            "name": null,
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                },
+                {
+                    "inputType": "radio",
+                    "title": "radio button",
+                    "optionId": "32",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 11,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "30",
+                            "name": "ra1",
+                            "maxCharacters": 0
+                        },
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 55,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "31",
+                            "name": "ra2",
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                },
+                {
+                    "inputType": "time",
+                    "title": "Time",
+                    "optionId": "133",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 20,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": null,
+                            "name": null,
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": false
+                }
+            ],
+            "tierPrices": null,
+            "fromPrice": 1011,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 9,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 1011,
+            "groupedItems": null,
+            "special_from_date": "2014-12-14 00:00:00",
+            "special_to_date": "2014-12-31 00:00:00",
+            "associatedProducts": null,
+            "toPrice": 1075,
+            "externalid": "1035",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/1035/?file=/d/o/do-019.png"
+            ],
+            "price": 1000,
+            "categories": [
+                60,
+                66,
+                -1
+            ],
+            "description": "Fridge"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Vay cuoi_custom option",
+            "fulldesc": "Bo suu tap vay cuoi phong cach thoi trang",
+            "special_price": "900",
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/1045/?file=/1/2/12996282-nhung-5.jpg",
+            "options": [
+                {
+                    "inputType": "field",
+                    "title": "Color",
+                    "optionId": "70",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 10,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": null,
+                            "name": null,
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": false
+                },
+                {
+                    "inputType": "field",
+                    "title": "demo",
+                    "optionId": "188",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": -901,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": null,
+                            "name": null,
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                },
+                {
+                    "inputType": "field",
+                    "title": "Fac",
+                    "optionId": "71",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": -3000,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": null,
+                            "name": null,
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                },
+                {
+                    "inputType": "drop_down",
+                    "title": "Size",
+                    "optionId": "72",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 11,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "73",
+                            "name": "M",
+                            "maxCharacters": 0
+                        },
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 19,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "74",
+                            "name": "L",
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": false
+                }
+            ],
+            "tierPrices": null,
+            "fromPrice": 900,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 93,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 900,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": -2972,
+            "externalid": "1045",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/1045/?file=/5/0/50896190_vay-hong-10.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/1045/?file=/4/-/4-kieu-vay-cuoi-cho-co-dau-nho-nguoi-13.jpg"
+            ],
+            "price": 1000,
+            "categories": [
+                2,
+                60,
+                66,
+                -1
+            ],
+            "description": "vay cuoi thoi trang"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Eyewear blue",
+            "fulldesc": "Eye wear bule",
+            "special_price": null,
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/1080/?file=/b/l/blue-eyes.jpg",
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 351,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 351,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 351,
+            "externalid": "1080",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/1080/?file=/b/l/blue-eyes.jpg"
+            ],
+            "price": 351,
+            "categories": [
+                4,
+                11,
+                14,
+                60,
+                -1
+            ],
+            "description": "Short description for eyewear blue"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Jane Dress_Special",
+            "fulldesc": "Leather sheath dress with jersey panels. Sleeveless. Lined. Available in Black. Cotton/Leather. Dry clean.",
+            "special_price": "400",
+            "image": "http://magento19.jmango360.com/magejam/image/index/store/1/id/1086/?file=/p/w/pwd001t_3_1.jpg",
+            "options": null,
+            "tierPrices": [
+                {
+                    "price": 500,
+                    "qty": 3,
+                    "customerGroupId": "32000"
+                }
+            ],
+            "fromPrice": 400,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 87,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 400,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 400,
+            "externalid": "1086",
+            "gallery": [
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/1086/?file=/p/w/pwd001a_3_1.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/1086/?file=/p/w/pwd001b_3_1.jpg",
+                "http://magento19.jmango360.com/magejam/image/index/store/1/id/1086/?file=/p/w/pwd001t_3_1.jpg"
+            ],
+            "price": 510,
+            "categories": [
+                60,
+                67,
+                -1
+            ],
+            "description": "Leather panels add a tuff touch to a classic LBD."
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Simple plan",
+            "fulldesc": "Simple plan",
+            "special_price": null,
+            "image": null,
+            "options": [
+                {
+                    "inputType": "field",
+                    "title": "test",
+                    "optionId": "204",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 0,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": null,
+                            "name": null,
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                }
+            ],
+            "tierPrices": null,
+            "fromPrice": 1005,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 0,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 1005,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 1005,
+            "externalid": "1090",
+            "gallery": null,
+            "price": 1005,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Simple plan"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Simple plan 2",
+            "fulldesc": "Simple plan",
+            "special_price": "100",
+            "image": null,
+            "options": null,
+            "tierPrices": [
+                {
+                    "price": 50,
+                    "qty": 2,
+                    "customerGroupId": "32000"
+                },
+                {
+                    "price": 40,
+                    "qty": 3,
+                    "customerGroupId": "32000"
+                }
+            ],
+            "fromPrice": 100,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": 1,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 40,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 100,
+            "externalid": "1091",
+            "gallery": null,
+            "price": 2000,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Simple plan"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Simple plan 333333",
+            "fulldesc": "Simple plan",
+            "special_price": null,
+            "image": null,
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 3000,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": -1,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 3000,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 3000,
+            "externalid": "1092",
+            "gallery": null,
+            "price": 3000,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Simple plan"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "Manage stock",
+            "fulldesc": "Manage stock",
+            "special_price": null,
+            "image": null,
+            "options": null,
+            "tierPrices": null,
+            "fromPrice": 1000,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": -1,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 1000,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 1000,
+            "externalid": "1095",
+            "gallery": null,
+            "price": 1000,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "Check display long name on order history on window phone_Thao test bla"
+        },
+        {
+            "attributes": null,
+            "priceType": null,
+            "priceView": null,
+            "position": "1",
+            "title": "ACB",
+            "fulldesc": "ACB",
+            "special_price": null,
+            "image": null,
+            "options": [
+                {
+                    "inputType": "multiple",
+                    "title": "Multi Select",
+                    "optionId": "251",
+                    "selections": [
+                        {
+                            "position": 0,
+                            "fileExtension": null,
+                            "sku": null,
+                            "price": 12,
+                            "imageSizeX": 0,
+                            "imageSizeY": 0,
+                            "priceType": "fixed",
+                            "valueId": "258",
+                            "name": "titile",
+                            "maxCharacters": 0
+                        }
+                    ],
+                    "position": 0,
+                    "required": true
+                }
+            ],
+            "tierPrices": null,
+            "fromPrice": 512,
+            "bundleOptions": null,
+            "_id": null,
+            "category": "-1",
+            "stocklevel": -1,
+            "version": 0,
+            "type": "simple",
+            "associatedAttributes": null,
+            "minimalPrice": 512,
+            "groupedItems": null,
+            "special_from_date": null,
+            "special_to_date": null,
+            "associatedProducts": null,
+            "toPrice": 512,
+            "externalid": "1101",
+            "gallery": null,
+            "price": 500,
+            "categories": [
+                60,
+                -1
+            ],
+            "description": "ACB"
+        }
+    ]
+}

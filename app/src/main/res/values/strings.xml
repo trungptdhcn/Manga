@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Manga</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_author">Author:\u0020</string>
+    <string name="label_country">Country:\u0020</string>
+    <string name="label_categories">Categories:\u0020</string>
+    <string name="label_information">Information</string>
+    <string name="label_comment">Comment</string>
+    <string name="label_relation">Relation</string>
+    <string name="label_read">Read now</string>
+    <string name="label_search">Search</string>
+    <string name="label_hot">Hot</string>
+    <string name="label_favorite">Favorite</string>
+
+</resources>

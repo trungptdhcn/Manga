@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+    <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        <ImageView
+                android:id="@+id/story_item_ivCover"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                />
+
+        <TextView
+                android:id="@+id/story_item_tvStoryName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:textSize="@dimen/text_size_mini"
+                android:textColor="@color/black"
+                android:singleLine="true"
+                android:ellipsize="end"
+                android:layout_below="@+id/story_item_ivCover"
+                android:layout_marginTop="@dimen/spacing_normal"
+                />
+        <com.pnikosis.materialishprogress.ProgressWheel
+                xmlns:wheel="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/story_item_wheelCoverPhoto"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_centerInParent="true"
+                wheel:matProg_barColor="@color/red"
+                wheel:matProg_progressIndeterminate="true"/>
+    </RelativeLayout>
+</RelativeLayout>
